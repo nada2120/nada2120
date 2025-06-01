@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<h1>👋🏻 Hi, Nada</h1>
+<h1>Hi, I'm Nada 👋🏻</h1>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
@@ -29,8 +29,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ```dart
-class AboutMe extends Developer {
-  final String name = "Nada Sayed";
+class NadaSayed {
   final String role = "Flutter Developer";
   final List<String> languages = ["Dart", "Java", "C++"];
   final List<String> tools = ["Flutter", "Git", "Figma", "SQLite"];
